@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bionics.pw.toml"
-hash = "ccb156a28becc63d5fdea04798ec08f3fab390f35fd5380440211aa632199e70"
+hash = "124abaf71e87fc686427821889dcc65ba6b709003c426fbc069aeec5747c5a7a"
 metafile = true
 
 [[files]]
